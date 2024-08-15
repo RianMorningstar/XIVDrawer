@@ -11,7 +11,7 @@ XIVDrawer is a drawing library in Imgui designed to work within Dalamud Plugins.
 Add XIVPainter as a submodule to your project:
 
 ```shell
-git submodule add https://github.com/ArchiDog1998/XIVDrawer
+git submodule add https://github.com/RianMorningstar/XIVDrawer
 ```
 
 Add it to your plugin's CSProj file:
